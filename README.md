@@ -14,8 +14,6 @@ Why do people contribute to open source? Plenty of reasons!
 - Learn people skills.
 - It’s empowering to be able to make changes, even small ones.
 
-### One Rule of this community
-Robert F. Kennedy: 
-> Only those who dare to fail greatly can ever achieve greatly. 
+### Rules of this community
+Don't be scared to make mistakes here. Use what you have learnt to create projects and to practise collaboration and contribution to projects by other students. A valuabe skill set in working in organizations and teams.
 
-So do not be scared to make mistakes and use this as a practise ground to learn collaboration and contribution to projects with other students.
