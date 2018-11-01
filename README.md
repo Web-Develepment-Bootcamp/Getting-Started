@@ -1,5 +1,6 @@
 ## Getting-Started
 Start here!
+If you are completely new to Git/GitHub, check out this [tutorial](https://www.youtube.com/watch?v=LemSseuZB9I&list=PL86ehqHzxhy4XX_qZZE_5mrp38WGZRzTO) from [Ian Schoonova](https://github.com/nax3t) 
 
 Source: [How to contribute to Open Source](https://opensource.guide/how-to-contribute/)
 
